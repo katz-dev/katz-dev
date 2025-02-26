@@ -23,10 +23,15 @@
 
 [![An image of @katz2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/katz2003)](https://holopin.io/@katz2003)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=katz-dev&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=katz-dev&theme=material-palenight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=katz-dev&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+### 📊 GitHub Stats
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katz-dev&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=katz-dev&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=katz-dev&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=katz-dev&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=katz-dev&theme=discord&no-frame=true&no-bg=false&margin-w=4)
