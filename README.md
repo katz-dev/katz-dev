@@ -8,6 +8,27 @@
 
 </div>
 
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/flkkatz?t=xx2ebt6-6onohoyfiv8gda&s=09" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/prabudda-perera-9047611a0/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/perera.prabuda" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/prabudda_2.0/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/@fantasylk1697" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+</a>
+<a href="https://discord.gg/Ktt3KGFZ7k" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+</a>
+</p>
 
 <br/>
 
