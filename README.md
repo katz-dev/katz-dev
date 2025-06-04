@@ -45,7 +45,7 @@ $ ls tech/
 ├── FiveM Development
 │   └── Lua, ESX, QBCore, MySQL, JavaScript
 └── DevOps
-    └── Terraform, Jenkins, GitHub-Actions, Prometheus, Grafana
+    └── GitHub-Actions
 ```
 
 <br/>
