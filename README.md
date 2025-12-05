@@ -105,7 +105,11 @@ $ ls tech/
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/katz-dev/katz-dev/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/katz-dev/katz-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/katz-dev/katz-dev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/katz-dev/katz-dev/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
